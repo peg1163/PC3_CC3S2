@@ -1,4 +1,4 @@
-**Informe Paso a Paso: Desarrollo en Rails para RottenPotatoes**
+**Informe Paso a Paso: Desarrollo en Rails para RottenPotatoes** 
 **Video demostrativo**
 
 https://drive.google.com/drive/folders/1cd5M5LOtt6rGbb07TGTcremMFvZfnocB?usp=sharing
