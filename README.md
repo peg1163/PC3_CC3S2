@@ -1,7 +1,13 @@
-**Informe Paso a Paso: Desarrollo en Rails para RottenPotatoes** 
-   
-**Video demostrativo**
+# Tercera Práctica Calificada : Desarrollo en Rails para RottenPotatoes
 
+### Integrantes:
+- Acuña Napan, Jaime Gonzalo
+- Zuñiga Chicaña, Alejandra Aztirma
+
+### Repositorio del Proyecto:
+Este nuevo repositorio se creó debido a problemas técnicos con la cuenta de GitHub de uno de los integrantes (donde se inició el desarrollo de la PC3). El siguiente elace se proporciona como evidencia del trabajo previo, incluyendo el uso de ramas:  https://github.com/Aztirma/PC3_CC3S2
+
+### Video demostrativo: 
 https://drive.google.com/drive/folders/1cd5M5LOtt6rGbb07TGTcremMFvZfnocB?usp=sharing
 
 ## Parte 0: Configuracion 
@@ -143,10 +149,12 @@ Para llevar a cabo la primera implementación en Heroku, volvimos a nuestra rama
 git checkout master
 git push heroku master
 ```
+
+Sin embargo, nos encontramos con un inconveniente al intentar desplegar la aplicación en Heroku. Después de ejecutar el comando de despliegue, utilizando git push heroku master, nos encontramos con un problema evidenciado en la imagen a continuación:
+
 ![Alt text](Images/image-20.png)´
 
-
-Es posible que hayamos visto una advertencia la primera vez. Respondimos "sí" para continuar.
+Lamentablemente, debido a este problema identificado en la imagen, no pudimos completar con éxito el despliegue en Heroku en este momento.
 
 
 ## Parte 1: Filtrar lista de peliculas por clasificación
