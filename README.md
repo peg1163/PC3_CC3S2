@@ -423,3 +423,24 @@ La siguiente imagen representa la tabla ordenada ademas de estar cumpliendo con 
 Al momento de realizar Rrfresh, estos datos no se pierden, siguen apareciendo los ratings seleccionados. En este punto, es decir tenemos las columnas de clasificación funcionando ya que nuestra columna no "olvida" los valores de las casillas de verificación que estaban marcadas.
 
 ![Alt text](Images/image-1c.png)
+
+## Parte 3 : Recuerda la configuración de clasificación y filtrado
+
+Pareceria que tenemos toda la aplicacion lista para el despliegue , pero aun podemos mejorar algunas cosas , por ejemplo :
+Que sucede si aplicamos algun filtrado o clasificacion , e ingresamos a los detalles de alguna de las peliculas para luego regresar a la lista de peliculas 
+
+Aplicamos filtraciones y clasificaciones :
+
+![image](https://github.com/peg1163/PC3_CC3S2/assets/92898224/0fa9d139-e26c-4cea-9d88-877263e10bc4)
+
+Ingresamos a las informacion de alguna de las peliculas para luego retornar con el boton back to movie list 
+
+![image](https://github.com/peg1163/PC3_CC3S2/assets/92898224/580f251e-81c0-416f-8c5d-c8f09e1d7376)
+
+Veremos que el filtrado y clasificacion de peliculas , no se mantiene 
+
+![image](https://github.com/peg1163/PC3_CC3S2/assets/92898224/b9495059-fd32-4dfc-b818-3d5e58b8d2a6)
+
+
+
+
